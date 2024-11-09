@@ -19,6 +19,10 @@ export default defineNuxtConfig({
     },
   },
 
-  
-  
-})
+  ssr: false,
+
+  // Additional configurations for GitHub Pages deployment
+  app: {
+    baseURL: process.env.NODE_ENV === 'production' ? '/udemy_clone/' : '/',
+  },
+});
