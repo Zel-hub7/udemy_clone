@@ -1,14 +1,12 @@
 {
   "name": "nuxt-app",
   "private": true,
-  "type": "module",
   "scripts": {
-    "build": "vue-cli-service build",
-    "deploy": "npm run build && gh-pages -d dist",
     "dev": "nuxt dev",
+    "build": "nuxt build",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "deploy": "nuxt generate && gh-pages -d .output/public"
   },
   "dependencies": {
     "nuxt": "^3.14.159",
@@ -17,7 +15,6 @@
   },
   "devDependencies": {
     "@iconify-json/material-symbols": "^1.2.6",
-    "@vue/cli-service": "^3.3.1",
     "autoprefixer": "^10.4.20",
     "gh-pages": "^6.2.0",
     "postcss": "^8.4.47",
