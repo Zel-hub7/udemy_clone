@@ -1,8 +1,20 @@
-<!-- App.vue -->
+<!-- pages/index.vue -->
 <template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
-</template>
+  <div>
+    <Navbar />
+    <CourseHeader />
+    <CourseFeatures />
+    <Companies />
+    <CourseContent />
+    <Requirments />
+    <FeaturedReview />
+    <Students />
+    <FrequentlyBought />
+    <InstructorReview />
+    <MoreCourses />
+    <Footer />
 
-<script setup></script>
+    <!-- Import Sticky Header Component -->
+    <StickyHeader />
+  </div>
+</template>
