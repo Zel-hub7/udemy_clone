@@ -3,7 +3,7 @@
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 <p align="center">
-  <img src="https://github.com/Zel-hub7/udemy_clone/assets/123939543/fc0f4562-55c4-4e30-a784-6004fcb1f0e7" width="250px" alt="Udemy Logo">
+  <img src="[https://github.com/Zel-hub7/udemy_clone/assets/123939543/fc0f4562-55c4-4e30-a784-6004fcb1f0e7](https://github.com/Zel-hub7/udemy_clone/blob/main/assets/css/screen2.PNG?raw=true)" width="250px" alt="Udemy Logo">
 </p>
 <a name="readme-top"></a>
 
