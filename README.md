@@ -51,7 +51,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]((https://udemy-clone-beta.vercel.app/udemy_clone/))
+- [Live Demo Link](https://udemy-clone-beta.vercel.app/udemy_clone/)
 
 ## 🎥 Video Showcase <a name="video-showcase"></a>
 
