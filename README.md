@@ -57,6 +57,9 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 - [Video Demo Link](https://www.loom.com/share/98440323cc83424da86d3dca5dd0c140?sid=8294a46b-0650-450f-891c-98cf38b01ccf)
 
+## Video Presentation <a name= "video-presentation"></a>
+-[Video Demo Link](https://www.loom.com/share/7ea058c93f7b4c0eb289b405d85dc04d?sid=d04a3e42-bb25-40fd-89dd-05eedd9d285d)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
