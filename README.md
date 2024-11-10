@@ -3,9 +3,9 @@
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 <p align="center">
-  <img src="https://github.com/Zel-hub7/udemy_clone/blob/main/assets/css/screen2.PNG?raw=true" width="250px" alt="Screen shot">
-  <img src="https://github.com/Zel-hub7/udemy_clone/blob/main/assets/css/scren1.PNG?raw=true" width="400px" alt="Screebshot">
-  <img src="https://github.com/Zel-hub7/udemy_clone/blob/main/assets/css/Capture2.PNG?raw=true" width="400px" alt="Screenshot">
+  <img src="https://github.com/Zel-hub7/udemy_clone/blob/main/assets/css/screen2.PNG?raw=true" width="600px" alt="Screen shot">
+  <img src="https://github.com/Zel-hub7/udemy_clone/blob/main/assets/css/scren1.PNG?raw=true" width="600px" alt="Screebshot">
+  <img src="https://github.com/Zel-hub7/udemy_clone/blob/main/assets/css/Capture2.PNG?raw=true" width="600px" alt="Screenshot">
 </p>
 <a name="readme-top"></a>
 
