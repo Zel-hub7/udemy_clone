@@ -40,25 +40,38 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 - **Nuxt.js**
 - **Tailwind CSS**
+- **VUE**
+- **Vite**
 - **TypeScript**
 
 ### Key Features <a name="key-features"></a>
 
-- **Course Catalog**: Browse a variety of courses by category and popularity.
+- **Static Course Display^^: Presents a single course page with detailed information on course content, including video previews, pricing, and key features.
 - **Responsive Design**: Ensures a seamless experience across devices.
+- **Interactive Elements**: Includes tabs for switching between personal and team options, as well as interactive buttons and links for exploring course details and related options.
 - **Course Playback**: Access course video content with a simple, intuitive player.
 - 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+
 - [Live Demo Link](https://udemy-clone-beta.vercel.app/udemy_clone/)
 
 ## 🎥 Video Showcase <a name="video-showcase"></a>
 
+This is simple video showcase of the project.
+
 - [Video Demo Link](https://www.loom.com/share/98440323cc83424da86d3dca5dd0c140?sid=8294a46b-0650-450f-891c-98cf38b01ccf)
 
 ## Video Presentation <a name= "video-presentation"></a>
+
+This is a loom link where I presented the project and take you through the project.
 -[Video Demo Link](https://www.loom.com/share/7ea058c93f7b4c0eb289b405d85dc04d?sid=d04a3e42-bb25-40fd-89dd-05eedd9d285d)
+
+## Project Documentation <a name ="project-documentation"></a>
+
+Here below we have a small simple google doc file that tells us a little about the project.
+-[Documentation](https://docs.google.com/document/d/18dcgnkVulIOMBkRwHrNUcssiT_1PAVhqD-x9VSZCbUo/edit?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
